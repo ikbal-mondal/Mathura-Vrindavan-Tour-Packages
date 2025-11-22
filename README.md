@@ -1,4 +1,4 @@
-Each file represents a specific section of the website with full responsiveness and Tailwind-based UI.
+Each file represents a specific section of the website with full responsiveness and Tailwind-based UI SEO Friendly.
 
 ## 🔗 Live Link
 
@@ -81,6 +81,7 @@ Tour plan pages for:
 - **Tailwind CSS (CDN version)**
 - **Font Awesome Icons**
 - **Responsive Web Design**
+- **SEO Friendly**
 
 No frameworks, no build tools — everything works directly in the browser.
 
